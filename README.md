@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Aurelie.
+- 👀 I’m interested in project management and business analytics. 
+- 🌱 I’m currently learning Python programming and marketing principles. 
+- 📫 How to reach me: www.linkedin.com/in/aureliebitton
+- ⚡ Fun fact: I have been learning Python for 1 whole year already!
